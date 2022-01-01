@@ -1,1 +1,21 @@
-# Final-CS50-Project
+# Final-CS50-Project - COVID & TRAVEL Update APP
+
+#### Video Demo:  <https://youtu.be/loJFzfq9H6M>
+  
+#### Project Description:
+
+Hi David and the Team,
+  
+  Firstly, I’d like to thank you for the opportunity you give to thousands of students to experience a little bit of Computer Science in the form of CS50. I am a full time Travel agent working in a Travel Management company, who was really struggling during the last two years due to COVID which caused Travel ban and ultimately Travel industry coming to a standstill point. I did not know what to do during this time while being in the COVID trap (lockdown at home) I wanted to take the opportunity to learn something new. 
+Initially I thought barber would be a good part-time job with some handy income, I also thought Taxi driver or even courier guy (why not, every job is a job 😊). However, one day saw a coding ad and I took the Coding challenge, it meant to be a free five day coding challenge. I started it and I feel in love with coding! I thought this is where I want to be and wanted to learn more and more until CS50 lightning knocked me off! 😊
+  Sorry jokes apart, CS50 has not been easy but its not been boring either. CS50 gave me a good understanding of what is hard work and dedication and how rewarding it could lead to. You almost give up at times and just then you push yourself and you find it was one small little thing that stopped my code.
+  Honestly, I have thoroughly enjoyed a lot of the Lab works and Problem, but I must admit a few of them got me made crazy, but with help and support I got through.
+  
+  My final Project was my best thing that I ever made personally. It was more of me and what I want to do moving forward as in my personal life.
+  During the lockdown I saw many people being confused and frustrated due to lockdown and never seen or experienced before people had travel restrictions so much so families could not meet or see each other. As a travel agent I knew how helpful I was to my corporate travellers. However, I could not do the same with my community people, my friends and family members. And Just then I thought to myself while I was think what project I must do… I decided to do a COVID support and travel advisory project, where I’ll have information to give my friends and family, my Facebook, Instagram or tweeter extended family. People can reach out to me and asking questions and I could use my travel knowledge, my resources to find the latest and right information to the people who most need it. It might seem small little project, but I know this is a very useful help to old people, people who struggle with loveliness and people who want that personal touch or confidence that the information provided to them is coming from a professional person and more importantly this is a free service and some charity to my community.
+What does my Web App do, it is a simple one, it explains who I am and what support I can offer however before they actually come to me, they have one-point COVID link to check Government updates and if they are travelling, they have Government travel Guidelines too. However, the more exciting part is at the bottom of my web page. If they are not sure or want to check more details or clarification, people can email me and ask questions straight from my web page. I use Emailjs service to make this happen. This service is much secure then sending email via Javascript. EmailJS is a service that allows us to send emails directly from your client-side JavaScript code and free to use. A better way to think of EmailJS in terms of security is not as a service that allows you to send email from Javascript, but rather as a service that allows you to create a predefined set of emails via the dashboard, and then just trigger the emails from the Javascript. This is quite similar to how emails are usually sent via a proprietary server code, and also to the way products like Intercom or customer.io are working.
+  
+This Web App is easily developed into more featuring app, where it has potential for creating subscription for monthly updates on COVID or Travel and many more things.
+I would like to expand this project more as I am thinking of going for the next CS50 course in few months and learn more about Computer Science and expand my knowledge.
+
+Looking forward to CS50's Web Programming with Python and JavaScript  
